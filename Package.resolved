@@ -1,0 +1,167 @@
+{
+  "pins" : [
+    {
+      "identity" : "bech32",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/bech32",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3c880e72bfd09a1454f0a330aa677b7ae30c3f75"
+      }
+    },
+    {
+      "identity" : "fastrangesiphash",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/FastrangeSipHash",
+      "state" : {
+        "branch" : "main",
+        "revision" : "418d02e9c7f0e89f9358fa37ee9839f46fdbd6ba"
+      }
+    },
+    {
+      "identity" : "filerepo",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/FileRepo",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c042aa8a72fff996613e40c78d1ede976a2081a1"
+      }
+    },
+    {
+      "identity" : "fltrecc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/fltrECC",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0c36b295b3bc89897c9c26a71bb9469216265414"
+      }
+    },
+    {
+      "identity" : "fltrjet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/fltrJET",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5b273a5dacf185502d78feb832f188eddcf0fd18"
+      }
+    },
+    {
+      "identity" : "fltrnode",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/fltrNode",
+      "state" : {
+        "branch" : "main",
+        "revision" : "640ff336322bfa6cab2a407dd5560017e47d8298"
+      }
+    },
+    {
+      "identity" : "fltrtx",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/fltrTx",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6b0540af38d92c97eb7b9f9032703ed37401d165"
+      }
+    },
+    {
+      "identity" : "fltrvault",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/fltrVault",
+      "state" : {
+        "branch" : "main",
+        "revision" : "88ed08790511424fe33c559ca69d0feada890a88"
+      }
+    },
+    {
+      "identity" : "fltrwapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/fltrWAPI",
+      "state" : {
+        "branch" : "main",
+        "revision" : "92391a81459ef5aafb96534c5673daac4491c6d3"
+      }
+    },
+    {
+      "identity" : "habylo",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/HaByLo",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0bcb3e1da8a9ea091a643c94bf83fb02a3c0d553"
+      }
+    },
+    {
+      "identity" : "keychainclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/KeyChainClient",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7798cccb3c2843a2e95892faab3eb9cf1efb01a3"
+      }
+    },
+    {
+      "identity" : "nameresolver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/NameResolver",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7420fc3ff61aa93ffb100944eade498ec781b0ca"
+      }
+    },
+    {
+      "identity" : "stream64",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/Stream64",
+      "state" : {
+        "branch" : "main",
+        "revision" : "cdfa96dce5d6b7951a7b07769ce93c84be50370b"
+      }
+    },
+    {
+      "identity" : "swift-atomics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-atomics.git",
+      "state" : {
+        "revision" : "919eb1d83e02121cdb434c7bfc1f0c66ef17febe",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "f504716c27d2e5d4144fa4794b12129301d17729",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "swift-nio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-nio.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "72b8e3f52ce8e5e4b78bb0fdc16a1778f9b2903e"
+      }
+    },
+    {
+      "identity" : "swift-nio-transport-services",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-nio-transport-services.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e676b1f044a1fe353cf614632755872db3799bbb"
+      }
+    },
+    {
+      "identity" : "userdefaultsclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fltrWallet/UserDefaultsClient",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3519c7578bea9802954fc489a666e3cd32b889c5"
+      }
+    }
+  ],
+  "version" : 2
+}
